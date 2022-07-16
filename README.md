@@ -38,4 +38,4 @@ Made by Douglas Souza 👋🏽 Get in touch!
 ---
 ## README versions
 
-[English 🇺🇸](./README.md)# RabbitMQ
+[English 🇺🇸](./README.md)
