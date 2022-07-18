@@ -1,4 +1,4 @@
-<h1 align="center">Apache-Camel</h1>
+<h1 align="center">RabbitMQ</h1>
 
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## ⚙️ Activities
 
-- [ ] RabbitMQ key concepts.
+- [x] RabbitMQ key concepts.
 - [ ] Managing RabbitMQ from web user interface.
 - [ ] Create publisher and consumer using Java (Spring Boot).
 - [ ] Basic error handler if there is a failure during processing Rabbit MQ message.
